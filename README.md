@@ -26,6 +26,6 @@ Where alt is the alternative text for the image
 [@AliMasaoodi](https://www.linkedin.com/in/ali-masaoodi/)
 
 ````diff
--                          Thank You                                      
++                          Thank You                                      
 
 ````
