@@ -14,7 +14,6 @@ Upload the image to a repository and then copy its link and paste it in this for
 
 Where alt is the alternative text for the image
 
-
 ### Feel free to [follow me](https://github.com/AliMasaoodi), to be updated with new solutions and open-source projects:
 
 
